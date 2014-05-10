@@ -1,0 +1,2 @@
+DESIGN_ID	DESIGN_NAME	DESCRIPTION
+551551	110413_Mglo_CAG_exp	Custom expression design for Malassezia globosa using customer-provided transcripts.  Downloaded pre-assembled shotgun genome (NZ_AAYY00000000) which contained 4286 transcripts.  Selected 10 probes per transcript and covered 4282 of the 4286 transcripts with 42,671 probes.  Will put 3 replicates on final array for a total of 128,013 experimental probes.  4 transcripts without any probe coverage, 1 transcript with only 1 probe, 14 transcripts with duplicate probes. 
