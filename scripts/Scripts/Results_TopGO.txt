@@ -1,0 +1,472 @@
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	4DS	GO:0006414	translational elongation	biological_process	ks	weight01	0.00041
+4DST80	4DS	GO:0009058	biosynthetic process	biological_process	ks	weight01	0.00097
+4DST80	4DS	GO:0006091	generation of precursor metabolites and energy	biological_process	ks	weight01	0.00555
+4DST80	4DS	GO:0045454	cell redox homeostasis	biological_process	ks	weight01	0.01339
+4DST80	4DS	GO:0006418	tRNA aminoacylation for protein translation	biological_process	ks	weight01	0.01465
+4DST80	4DS	GO:0006644	phospholipid metabolic process	biological_process	ks	weight01	0.01745
+4DST80	4DS	GO:0006412	translation	biological_process	ks	weight01	0.02313
+4DST80	4DS	GO:0006950	response to stress	biological_process	ks	weight01	0.02381
+4DST80	4DS	GO:0009628	response to abiotic stimulus	biological_process	ks	weight01	0.02719
+4DST80	4DS	GO:0008652	amino acid biosynthetic process	biological_process	ks	weight01	0.03263
+4DST80	4DS	GO:0044262	cellular carbohydrate metabolic process	biological_process	ks	weight01	0.04075
+4DST80	4DS	GO:0007005	mitochondrion organization	biological_process	ks	weight01	0.04589
+4DST80	4DS	GO:0007031	peroxisome organization and biogenesis	biological_process	ks	weight01	0.05008
+4DST80	4DS	GO:0044403	symbiosis, encompassing mutualism through parasitism	biological_process	ks	weight01	0.05569
+4DST80	4DS	GO:0006096	glycolysis	biological_process	ks	weight01	0.05735
+4DST80	4DS	GO:0006164	purine nucleotide biosynthetic process	biological_process	ks	weight01	0.07105
+4DST80	4DS	GO:0006730	one-carbon compound metabolic process	biological_process	ks	weight01	0.0713
+4DST80	4DS	GO:0016042	lipid catabolic process	biological_process	ks	weight01	0.07197
+4DST80	4DS	GO:0044238	primary metabolic process	biological_process	ks	weight01	0.07396
+4DST80	4DS	GO:0006812	cation transport	biological_process	ks	weight01	0.07778
+4DST80	4DS	GO:0009605	response to external stimulus	biological_process	ks	weight01	0.09276
+4DST80	4DS	GO:0019752	carboxylic acid metabolic process	biological_process	ks	weight01	0.09918
+4DST80	4DS	GO:0009396	folic acid and derivative biosynthetic process	biological_process	ks	weight01	0.10465
+4DST80	4DS	GO:0006486	protein amino acid glycosylation	biological_process	ks	weight01	0.10526
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	4DS	GO:0003735	structural constituent of ribosome	molecular_function	ks	weight01	0.0016
+4DST80	4DS	GO:0003746	translation elongation factor activity	molecular_function	ks	weight01	0.0016
+4DST80	4DS	GO:0046912	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer	molecular_function	ks	weight01	0.009
+4DST80	4DS	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	molecular_function	ks	weight01	0.0155
+4DST80	4DS	GO:0004622	lysophospholipase activity	molecular_function	ks	weight01	0.0159
+4DST80	4DS	GO:0016408	C-acyltransferase activity	molecular_function	ks	weight01	0.0191
+4DST80	4DS	GO:0004339	glucan 1,4-alpha-glucosidase activity	molecular_function	ks	weight01	0.0292
+4DST80	4DS	GO:0016874	ligase activity	molecular_function	ks	weight01	0.0379
+4DST80	4DS	GO:0005543	phospholipid binding	molecular_function	ks	weight01	0.0395
+4DST80	4DS	GO:0004579	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	molecular_function	ks	weight01	0.0397
+4DST80	4DS	GO:0004812	aminoacyl-tRNA ligase activity	molecular_function	ks	weight01	0.045
+4DST80	4DS	GO:0017111	nucleoside-triphosphatase activity	molecular_function	ks	weight01	0.0577
+4DST80	4DS	GO:0020037	heme binding	molecular_function	ks	weight01	0.0676
+4DST80	4DS	GO:0004003	ATP-dependent DNA helicase activity	molecular_function	ks	weight01	0.0724
+4DST80	4DS	GO:0000175	3'-5'-exoribonuclease activity	molecular_function	ks	weight01	0.0748
+4DST80	4DS	GO:0016746	transferase activity, transferring acyl groups	molecular_function	ks	weight01	0.0801
+4DST80	4DS	GO:0009055	electron carrier activity	molecular_function	ks	weight01	0.0844
+4DST80	4DS	GO:0004842	ubiquitin-protein ligase activity	molecular_function	ks	weight01	0.0986
+4DST80	4DS	GO:0016419	S-malonyltransferase activity	molecular_function	ks	weight01	0.1048
+4DST80	4DS	GO:0015299	solute:hydrogen antiporter activity	molecular_function	ks	weight01	0.1174
+4DST80	4DS	GO:0003676	nucleic acid binding	molecular_function	ks	weight01	0.1194
+4DST80	4DS	GO:0005086	ARF guanyl-nucleotide exchange factor activity	molecular_function	ks	weight01	0.1294
+4DST80	4DS	GO:0004448	isocitrate dehydrogenase activity	molecular_function	ks	weight01	0.1388
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	4DS	GO:0015935	small ribosomal subunit	cellular_component	ks	weight01	5.8e-05
+4DST80	4DS	GO:0005840	ribosome	cellular_component	ks	weight01	0.027
+4DST80	4DS	GO:0005737	cytoplasm	cellular_component	ks	weight01	0.029
+4DST80	4DS	GO:0005623	cell	cellular_component	ks	weight01	0.05
+4DST80	4DS	GO:0005829	cytosol	cellular_component	ks	weight01	0.067
+4DST80	4DS	GO:0005856	cytoskeleton	cellular_component	ks	weight01	0.112
+4DST80	4DS	GO:0005622	intracellular	cellular_component	ks	weight01	0.114
+4DST80	4DS	GO:0005777	peroxisome	cellular_component	ks	weight01	0.135
+4DST80	4DS	GO:0043226	organelle	cellular_component	ks	weight01	0.154
+4DST80	4DS	GO:0005758	mitochondrial intermembrane space	cellular_component	ks	weight01	0.174
+4DST80	4DS	GO:0005815	microtubule organizing center	cellular_component	ks	weight01	0.181
+4DST80	4DS	GO:0005743	mitochondrial inner membrane	cellular_component	ks	weight01	0.189
+4DST80	4DS	GO:0005694	chromosome	cellular_component	ks	weight01	0.205
+4DST80	4DS	GO:0005778	peroxisomal membrane	cellular_component	ks	weight01	0.208
+4DST80	4DS	GO:0005783	endoplasmic reticulum	cellular_component	ks	weight01	0.21
+4DST80	4DS	GO:0016469	proton-transporting two-sector ATPase complex	cellular_component	ks	weight01	0.226
+4DST80	4DS	GO:0005886	plasma membrane	cellular_component	ks	weight01	0.241
+4DST80	4DS	GO:0000786	nucleosome	cellular_component	ks	weight01	0.243
+4DST80	4DS	GO:0043234	protein complex	cellular_component	ks	weight01	0.245
+4DST80	4DS	GO:0000228	nuclear chromosome	cellular_component	ks	weight01	0.253
+4DST80	4DS	GO:0015629	actin cytoskeleton	cellular_component	ks	weight01	0.277
+4DST80	4DS	GO:0030529	ribonucleoprotein complex	cellular_component	ks	weight01	0.31
+4DST80	4DS	GO:0005739	mitochondrion	cellular_component	ks	weight01	0.317
+4DST80	4DS	GO:0000785	chromatin	cellular_component	ks	weight01	0.345
+4DST80	4DS	GO:0005874	microtubule	cellular_component	ks	weight01	0.345
+
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	M.furfur	GO:0006412	translation	biological_process	ks	weight01	9.5e-05
+4DST80	M.furfur	GO:0006414	translational elongation	biological_process	ks	weight01	0.0006
+4DST80	M.furfur	GO:0044262	cellular carbohydrate metabolic process	biological_process	ks	weight01	0.0041
+4DST80	M.furfur	GO:0009056	catabolic process	biological_process	ks	weight01	0.0071
+4DST80	M.furfur	GO:0006091	generation of precursor metabolites and energy	biological_process	ks	weight01	0.0085
+4DST80	M.furfur	GO:0042773	ATP synthesis coupled electron transport	biological_process	ks	weight01	0.0157
+4DST80	M.furfur	GO:0009628	response to abiotic stimulus	biological_process	ks	weight01	0.0161
+4DST80	M.furfur	GO:0006913	nucleocytoplasmic transport	biological_process	ks	weight01	0.0238
+4DST80	M.furfur	GO:0007031	peroxisome organization and biogenesis	biological_process	ks	weight01	0.0379
+4DST80	M.furfur	GO:0006520	amino acid metabolic process	biological_process	ks	weight01	0.0415
+4DST80	M.furfur	GO:0009231	riboflavin biosynthetic process	biological_process	ks	weight01	0.0572
+4DST80	M.furfur	GO:0006541	glutamine metabolic process	biological_process	ks	weight01	0.0715
+4DST80	M.furfur	GO:0006730	one-carbon compound metabolic process	biological_process	ks	weight01	0.0743
+4DST80	M.furfur	GO:0005975	carbohydrate metabolic process	biological_process	ks	weight01	0.0798
+4DST80	M.furfur	GO:0016043	cellular component organization	biological_process	ks	weight01	0.0805
+4DST80	M.furfur	GO:0016071	mRNA metabolic process	biological_process	ks	weight01	0.0825
+4DST80	M.furfur	GO:0006164	purine nucleotide biosynthetic process	biological_process	ks	weight01	0.0852
+4DST80	M.furfur	GO:0045454	cell redox homeostasis	biological_process	ks	weight01	0.0861
+4DST80	M.furfur	GO:0007005	mitochondrion organization	biological_process	ks	weight01	0.0883
+4DST80	M.furfur	GO:0006066	alcohol metabolic process	biological_process	ks	weight01	0.0915
+4DST80	M.furfur	GO:0008299	isoprenoid biosynthetic process	biological_process	ks	weight01	0.1022
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	M.furfur	GO:0003735	structural constituent of ribosome	molecular_function	ks	weight01	1.6e-05
+4DST80	M.furfur	GO:0008137	NADH dehydrogenase (ubiquinone) activity	molecular_function	ks	weight01	0.0025
+4DST80	M.furfur	GO:0005524	ATP binding	molecular_function	ks	weight01	0.0046
+4DST80	M.furfur	GO:0003924	GTPase activity	molecular_function	ks	weight01	0.0052
+4DST80	M.furfur	GO:0004579	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	molecular_function	ks	weight01	0.0081
+4DST80	M.furfur	GO:0003746	translation elongation factor activity	molecular_function	ks	weight01	0.0161
+4DST80	M.furfur	GO:0000175	3'-5'-exoribonuclease activity	molecular_function	ks	weight01	0.02
+4DST80	M.furfur	GO:0008812	choline dehydrogenase activity	molecular_function	ks	weight01	0.0209
+4DST80	M.furfur	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function	ks	weight01	0.0314
+4DST80	M.furfur	GO:0046912	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer	molecular_function	ks	weight01	0.0417
+4DST80	M.furfur	GO:0010181	FMN binding	molecular_function	ks	weight01	0.0457
+4DST80	M.furfur	GO:0004674	protein serine/threonine kinase activity	molecular_function	ks	weight01	0.052
+4DST80	M.furfur	GO:0003824	catalytic activity	molecular_function	ks	weight01	0.0703
+4DST80	M.furfur	GO:0005525	GTP binding	molecular_function	ks	weight01	0.0708
+4DST80	M.furfur	GO:0016491	oxidoreductase activity	molecular_function	ks	weight01	0.0732
+4DST80	M.furfur	GO:0016776	phosphotransferase activity, phosphate group as acceptor	molecular_function	ks	weight01	0.0735
+4DST80	M.furfur	GO:0019205	nucleobase, nucleoside, nucleotide kinase activity	molecular_function	ks	weight01	0.0785
+4DST80	M.furfur	GO:0004872	receptor activity	molecular_function	ks	weight01	0.085
+4DST80	M.furfur	GO:0005216	ion channel activity	molecular_function	ks	weight01	0.0937
+4DST80	M.furfur	GO:0033765	steroid dehydrogenase activity, acting on the CH-CH group of donors	molecular_function	ks	weight01	0.094
+4DST80	M.furfur	GO:0008092	cytoskeletal protein binding	molecular_function	ks	weight01	0.0956
+4DST80	M.furfur	GO:0017111	nucleoside-triphosphatase activity	molecular_function	ks	weight01	0.097
+4DST80	M.furfur	GO:0004806	triacylglycerol lipase activity	molecular_function	ks	weight01	0.0985
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	M.furfur	GO:0005840	ribosome	cellular_component	ks	weight01	0.00062
+4DST80	M.furfur	GO:0005739	mitochondrion	cellular_component	ks	weight01	0.0024
+4DST80	M.furfur	GO:0005758	mitochondrial intermembrane space	cellular_component	ks	weight01	0.00369
+4DST80	M.furfur	GO:0043234	protein complex	cellular_component	ks	weight01	0.02895
+4DST80	M.furfur	GO:0005737	cytoplasm	cellular_component	ks	weight01	0.03037
+4DST80	M.furfur	GO:0005778	peroxisomal membrane	cellular_component	ks	weight01	0.04383
+4DST80	M.furfur	GO:0016023	cytoplasmic membrane-bounded vesicle	cellular_component	ks	weight01	0.04787
+4DST80	M.furfur	GO:0005783	endoplasmic reticulum	cellular_component	ks	weight01	0.04833
+4DST80	M.furfur	GO:0005829	cytosol	cellular_component	ks	weight01	0.05054
+4DST80	M.furfur	GO:0015935	small ribosomal subunit	cellular_component	ks	weight01	0.05075
+4DST80	M.furfur	GO:0015934	large ribosomal subunit	cellular_component	ks	weight01	0.08209
+4DST80	M.furfur	GO:0005622	intracellular	cellular_component	ks	weight01	0.12697
+4DST80	M.furfur	GO:0005777	peroxisome	cellular_component	ks	weight01	0.13505
+4DST80	M.furfur	GO:0005623	cell	cellular_component	ks	weight01	0.15599
+4DST80	M.furfur	GO:0005759	mitochondrial matrix	cellular_component	ks	weight01	0.15943
+4DST80	M.furfur	GO:0043226	organelle	cellular_component	ks	weight01	0.17214
+4DST80	M.furfur	GO:0015629	actin cytoskeleton	cellular_component	ks	weight01	0.21048
+4DST80	M.furfur	GO:0000786	nucleosome	cellular_component	ks	weight01	0.23571
+4DST80	M.furfur	GO:0009536	plastid	cellular_component	ks	weight01	0.29101
+4DST80	M.furfur	GO:0030529	ribonucleoprotein complex	cellular_component	ks	weight01	0.34739
+4DST80	M.furfur	GO:0030131	clathrin adaptor complex	cellular_component	ks	weight01	0.35092
+4DST80	M.furfur	GO:0005794	Golgi apparatus	cellular_component	ks	weight01	0.35761
+4DST80	M.furfur	GO:0000785	chromatin	cellular_component	ks	weight01	0.37275
+4DST80	M.furfur	GO:0005773	vacuole	cellular_component	ks	weight01	0.45399
+
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	M.globosa	GO:0006412	translation	biological_process	ks	weight01	1.1e-09
+4DST80	M.globosa	GO:0006091	generation of precursor metabolites and energy	biological_process	ks	weight01	6.8e-06
+4DST80	M.globosa	GO:0006414	translational elongation	biological_process	ks	weight01	7.7e-06
+4DST80	M.globosa	GO:0008299	isoprenoid biosynthetic process	biological_process	ks	weight01	0.019
+4DST80	M.globosa	GO:0008652	amino acid biosynthetic process	biological_process	ks	weight01	0.019
+4DST80	M.globosa	GO:0006221	pyrimidine nucleotide biosynthetic process	biological_process	ks	weight01	0.021
+4DST80	M.globosa	GO:0006418	tRNA aminoacylation for protein translation	biological_process	ks	weight01	0.022
+4DST80	M.globosa	GO:0016071	mRNA metabolic process	biological_process	ks	weight01	0.023
+4DST80	M.globosa	GO:0006796	phosphate metabolic process	biological_process	ks	weight01	0.026
+4DST80	M.globosa	GO:0007049	cell cycle	biological_process	ks	weight01	0.028
+4DST80	M.globosa	GO:0044262	cellular carbohydrate metabolic process	biological_process	ks	weight01	0.028
+4DST80	M.globosa	GO:0007264	small GTPase mediated signal transduction	biological_process	ks	weight01	0.03
+4DST80	M.globosa	GO:0006352	transcription initiation	biological_process	ks	weight01	0.035
+4DST80	M.globosa	GO:0009082	branched chain family amino acid biosynthetic process	biological_process	ks	weight01	0.048
+4DST80	M.globosa	GO:0006334	nucleosome assembly	biological_process	ks	weight01	0.051
+4DST80	M.globosa	GO:0006413	translational initiation	biological_process	ks	weight01	0.054
+4DST80	M.globosa	GO:0006996	organelle organization	biological_process	ks	weight01	0.06
+4DST80	M.globosa	GO:0006810	transport	biological_process	ks	weight01	0.061
+4DST80	M.globosa	GO:0006464	cellular protein modification process	biological_process	ks	weight01	0.066
+4DST80	M.globosa	GO:0006520	amino acid metabolic process	biological_process	ks	weight01	0.09
+4DST80	M.globosa	GO:0006555	methionine metabolic process	biological_process	ks	weight01	0.093
+4DST80	M.globosa	GO:0006164	purine nucleotide biosynthetic process	biological_process	ks	weight01	0.095
+4DST80	M.globosa	GO:0000003	reproduction	biological_process	ks	weight01	0.096
+4DST80	M.globosa	GO:0046488	phosphatidylinositol metabolic process	biological_process	ks	weight01	0.11
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	M.globosa	GO:0003735	structural constituent of ribosome	molecular_function	ks	weight01	1.3e-09
+4DST80	M.globosa	GO:0003746	translation elongation factor activity	molecular_function	ks	weight01	0.0005
+4DST80	M.globosa	GO:0003924	GTPase activity	molecular_function	ks	weight01	0.0015
+4DST80	M.globosa	GO:0004693	cyclin-dependent protein kinase activity	molecular_function	ks	weight01	0.0017
+4DST80	M.globosa	GO:0005525	GTP binding	molecular_function	ks	weight01	0.002
+4DST80	M.globosa	GO:0008135	translation factor activity, nucleic acid binding	molecular_function	ks	weight01	0.005
+4DST80	M.globosa	GO:0016853	isomerase activity	molecular_function	ks	weight01	0.0093
+4DST80	M.globosa	GO:0019205	nucleobase, nucleoside, nucleotide kinase activity	molecular_function	ks	weight01	0.0232
+4DST80	M.globosa	GO:0004812	aminoacyl-tRNA ligase activity	molecular_function	ks	weight01	0.0233
+4DST80	M.globosa	GO:0016751	S-succinyltransferase activity	molecular_function	ks	weight01	0.0246
+4DST80	M.globosa	GO:0016411	acylglycerol O-acyltransferase activity	molecular_function	ks	weight01	0.0246
+4DST80	M.globosa	GO:0016419	S-malonyltransferase activity	molecular_function	ks	weight01	0.0276
+4DST80	M.globosa	GO:0003743	translation initiation factor activity	molecular_function	ks	weight01	0.0351
+4DST80	M.globosa	GO:0030234	enzyme regulator activity	molecular_function	ks	weight01	0.0405
+4DST80	M.globosa	GO:0016874	ligase activity	molecular_function	ks	weight01	0.0482
+4DST80	M.globosa	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function	ks	weight01	0.0599
+4DST80	M.globosa	GO:0005215	transporter activity	molecular_function	ks	weight01	0.0749
+4DST80	M.globosa	GO:0016418	S-acetyltransferase activity	molecular_function	ks	weight01	0.0756
+4DST80	M.globosa	GO:0018030	peptidyl-lysine N6-myristoyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0004147	dihydrolipoamide branched chain acyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0018031	peptidyl-lysine N6-palmitoyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0019186	acyl-CoA N-acyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0032216	glucosaminyl-phosphotidylinositol O-acyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0043741	L-2-aminoadipate N-acetyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0008951	palmitoleoyl [acyl-carrier-protein]-dependent acyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0043764	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase activity	molecular_function	ks	weight01	0.0774
+4DST80	M.globosa	GO:0016412	serine O-acyltransferase activity	molecular_function	ks	weight01	0.0774
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DST80	M.globosa	GO:0005840	ribosome	cellular_component	ks	weight01	3.6e-09
+4DST80	M.globosa	GO:0005739	mitochondrion	cellular_component	ks	weight01	0.0028
+4DST80	M.globosa	GO:0005737	cytoplasm	cellular_component	ks	weight01	0.0087
+4DST80	M.globosa	GO:0005815	microtubule organizing center	cellular_component	ks	weight01	0.0097
+4DST80	M.globosa	GO:0005886	plasma membrane	cellular_component	ks	weight01	0.0137
+4DST80	M.globosa	GO:0005667	transcription factor complex	cellular_component	ks	weight01	0.0439
+4DST80	M.globosa	GO:0015935	small ribosomal subunit	cellular_component	ks	weight01	0.0463
+4DST80	M.globosa	GO:0043226	organelle	cellular_component	ks	weight01	0.0631
+4DST80	M.globosa	GO:0005623	cell	cellular_component	ks	weight01	0.0776
+4DST80	M.globosa	GO:0015934	large ribosomal subunit	cellular_component	ks	weight01	0.0954
+4DST80	M.globosa	GO:0005829	cytosol	cellular_component	ks	weight01	0.1069
+4DST80	M.globosa	GO:0000786	nucleosome	cellular_component	ks	weight01	0.1095
+4DST80	M.globosa	GO:0005778	peroxisomal membrane	cellular_component	ks	weight01	0.1196
+4DST80	M.globosa	GO:0005743	mitochondrial inner membrane	cellular_component	ks	weight01	0.13
+4DST80	M.globosa	GO:0005783	endoplasmic reticulum	cellular_component	ks	weight01	0.156
+4DST80	M.globosa	GO:0030529	ribonucleoprotein complex	cellular_component	ks	weight01	0.1724
+4DST80	M.globosa	GO:0005758	mitochondrial intermembrane space	cellular_component	ks	weight01	0.1877
+4DST80	M.globosa	GO:0016023	cytoplasmic membrane-bounded vesicle	cellular_component	ks	weight01	0.1893
+4DST80	M.globosa	GO:0005777	peroxisome	cellular_component	ks	weight01	0.2035
+4DST80	M.globosa	GO:0005635	nuclear envelope	cellular_component	ks	weight01	0.2081
+4DST80	M.globosa	GO:0009536	plastid	cellular_component	ks	weight01	0.2436
+4DST80	M.globosa	GO:0005856	cytoskeleton	cellular_component	ks	weight01	0.2502
+4DST80	M.globosa	GO:0045259	proton-transporting ATP synthase complex	cellular_component	ks	weight01	0.2827
+4DST80	M.globosa	GO:0019867	outer membrane	cellular_component	ks	weight01	0.3379
+4DST80	M.globosa	GO:0016020	membrane	cellular_component	ks	weight01	0.3506
+
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DS	M.furfur	GO:0006811	ion transport	biological_process	ks	weight01	0.0059
+4DS	M.furfur	GO:0009058	biosynthetic process	biological_process	ks	weight01	0.0157
+4DS	M.furfur	GO:0042773	ATP synthesis coupled electron transport	biological_process	ks	weight01	0.0266
+4DS	M.furfur	GO:0008654	phospholipid biosynthetic process	biological_process	ks	weight01	0.0266
+4DS	M.furfur	GO:0006091	generation of precursor metabolites and energy	biological_process	ks	weight01	0.0398
+4DS	M.furfur	GO:0006164	purine nucleotide biosynthetic process	biological_process	ks	weight01	0.0435
+4DS	M.furfur	GO:0019752	carboxylic acid metabolic process	biological_process	ks	weight01	0.0584
+4DS	M.furfur	GO:0009082	branched chain family amino acid biosynthetic process	biological_process	ks	weight01	0.0621
+4DS	M.furfur	GO:0006888	ER to Golgi vesicle-mediated transport	biological_process	ks	weight01	0.0631
+4DS	M.furfur	GO:0006865	amino acid transport	biological_process	ks	weight01	0.0823
+4DS	M.furfur	GO:0006270	DNA replication initiation	biological_process	ks	weight01	0.0892
+4DS	M.furfur	GO:0007264	small GTPase mediated signal transduction	biological_process	ks	weight01	0.1064
+4DS	M.furfur	GO:0042254	ribosome biogenesis and assembly	biological_process	ks	weight01	0.1069
+4DS	M.furfur	GO:0006913	nucleocytoplasmic transport	biological_process	ks	weight01	0.1082
+4DS	M.furfur	GO:0006525	arginine metabolic process	biological_process	ks	weight01	0.1199
+4DS	M.furfur	GO:0006006	glucose metabolic process	biological_process	ks	weight01	0.1332
+4DS	M.furfur	GO:0046488	phosphatidylinositol metabolic process	biological_process	ks	weight01	0.1406
+4DS	M.furfur	GO:0032313	regulation of Rab GTPase activity	biological_process	ks	weight01	0.1421
+4DS	M.furfur	GO:0007275	multicellular organismal development	biological_process	ks	weight01	0.143
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DS	M.furfur	GO:0008137	NADH dehydrogenase (ubiquinone) activity	molecular_function	ks	weight01	0.008
+4DS	M.furfur	GO:0019201	nucleotide kinase activity	molecular_function	ks	weight01	0.012
+4DS	M.furfur	GO:0004448	isocitrate dehydrogenase activity	molecular_function	ks	weight01	0.019
+4DS	M.furfur	GO:0004298	threonine endopeptidase activity	molecular_function	ks	weight01	0.02
+4DS	M.furfur	GO:0016853	isomerase activity	molecular_function	ks	weight01	0.023
+4DS	M.furfur	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function	ks	weight01	0.029
+4DS	M.furfur	GO:0004779	sulfate adenylyltransferase activity	molecular_function	ks	weight01	0.029
+4DS	M.furfur	GO:0016776	phosphotransferase activity, phosphate group as acceptor	molecular_function	ks	weight01	0.03
+4DS	M.furfur	GO:0050662	coenzyme binding	molecular_function	ks	weight01	0.03
+4DS	M.furfur	GO:0004622	lysophospholipase activity	molecular_function	ks	weight01	0.031
+4DS	M.furfur	GO:0030246	carbohydrate binding	molecular_function	ks	weight01	0.035
+4DS	M.furfur	GO:0008094	DNA-dependent ATPase activity	molecular_function	ks	weight01	0.036
+4DS	M.furfur	GO:0009055	electron carrier activity	molecular_function	ks	weight01	0.037
+4DS	M.furfur	GO:0016410	N-acyltransferase activity	molecular_function	ks	weight01	0.044
+4DS	M.furfur	GO:0050661	NADP binding	molecular_function	ks	weight01	0.044
+4DS	M.furfur	GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function	ks	weight01	0.047
+4DS	M.furfur	GO:0008169	C-methyltransferase activity	molecular_function	ks	weight01	0.047
+4DS	M.furfur	GO:0008318	protein prenyltransferase activity	molecular_function	ks	weight01	0.054
+4DS	M.furfur	GO:0003720	telomerase activity	molecular_function	ks	weight01	0.075
+4DS	M.furfur	GO:0003896	DNA primase activity	molecular_function	ks	weight01	0.075
+4DS	M.furfur	GO:0033677	DNA/RNA helicase activity	molecular_function	ks	weight01	0.075
+4DS	M.furfur	GO:0043338	CTP:2,3-di-O-geranylgeranyl-sn-glycero-1-phosphate cytidyltransferase	molecular_function	ks	weight01	0.075
+4DS	M.furfur	GO:0043814	phospholactate guanylyltransferase activity	molecular_function	ks	weight01	0.075
+4DS	M.furfur	GO:0008193	tRNA guanylyltransferase activity	molecular_function	ks	weight01	0.075
+4DS	M.furfur	GO:0003724	RNA helicase activity	molecular_function	ks	weight01	0.076
+4DS	M.furfur	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	molecular_function	ks	weight01	0.078
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DS	M.furfur	GO:0005623	cell	cellular_component	ks	weight01	0.0028
+4DS	M.furfur	GO:0005737	cytoplasm	cellular_component	ks	weight01	0.0439
+4DS	M.furfur	GO:0030117	membrane coat	cellular_component	ks	weight01	0.0507
+4DS	M.furfur	GO:0005783	endoplasmic reticulum	cellular_component	ks	weight01	0.0719
+4DS	M.furfur	GO:0005829	cytosol	cellular_component	ks	weight01	0.1106
+4DS	M.furfur	GO:0016021	integral to membrane	cellular_component	ks	weight01	0.1152
+4DS	M.furfur	GO:0005739	mitochondrion	cellular_component	ks	weight01	0.1251
+4DS	M.furfur	GO:0005839	proteasome core complex	cellular_component	ks	weight01	0.1569
+4DS	M.furfur	GO:0045259	proton-transporting ATP synthase complex	cellular_component	ks	weight01	0.1704
+4DS	M.furfur	GO:0005840	ribosome	cellular_component	ks	weight01	0.1723
+4DS	M.furfur	GO:0015935	small ribosomal subunit	cellular_component	ks	weight01	0.2554
+4DS	M.furfur	GO:0015934	large ribosomal subunit	cellular_component	ks	weight01	0.2634
+4DS	M.furfur	GO:0005743	mitochondrial inner membrane	cellular_component	ks	weight01	0.2683
+4DS	M.furfur	GO:0005758	mitochondrial intermembrane space	cellular_component	ks	weight01	0.2757
+4DS	M.furfur	GO:0016023	cytoplasmic membrane-bounded vesicle	cellular_component	ks	weight01	0.2839
+4DS	M.furfur	GO:0005759	mitochondrial matrix	cellular_component	ks	weight01	0.2935
+4DS	M.furfur	GO:0008287	protein serine/threonine phosphatase complex	cellular_component	ks	weight01	0.3008
+4DS	M.furfur	GO:0005777	peroxisome	cellular_component	ks	weight01	0.3114
+4DS	M.furfur	GO:0031461	cullin-RING ubiquitin ligase complex	cellular_component	ks	weight01	0.3141
+4DS	M.furfur	GO:0016469	proton-transporting two-sector ATPase complex	cellular_component	ks	weight01	0.3484
+4DS	M.furfur	GO:0019867	outer membrane	cellular_component	ks	weight01	0.3655
+
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DS	M.globosa	GO:0006412	translation	biological_process	ks	weight01	5.5e-05
+4DS	M.globosa	GO:0006091	generation of precursor metabolites and energy	biological_process	ks	weight01	0.00024
+4DS	M.globosa	GO:0007264	small GTPase mediated signal transduction	biological_process	ks	weight01	0.00055
+4DS	M.globosa	GO:0006221	pyrimidine nucleotide biosynthetic process	biological_process	ks	weight01	0.00344
+4DS	M.globosa	GO:0015031	protein transport	biological_process	ks	weight01	0.00496
+4DS	M.globosa	GO:0006414	translational elongation	biological_process	ks	weight01	0.00522
+4DS	M.globosa	GO:0006886	intracellular protein transport	biological_process	ks	weight01	0.01397
+4DS	M.globosa	GO:0006796	phosphate metabolic process	biological_process	ks	weight01	0.02169
+4DS	M.globosa	GO:0009058	biosynthetic process	biological_process	ks	weight01	0.02195
+4DS	M.globosa	GO:0006913	nucleocytoplasmic transport	biological_process	ks	weight01	0.02274
+4DS	M.globosa	GO:0006006	glucose metabolic process	biological_process	ks	weight01	0.03754
+4DS	M.globosa	GO:0006418	tRNA aminoacylation for protein translation	biological_process	ks	weight01	0.04387
+4DS	M.globosa	GO:0006310	DNA recombination	biological_process	ks	weight01	0.05064
+4DS	M.globosa	GO:0006099	tricarboxylic acid cycle	biological_process	ks	weight01	0.05418
+4DS	M.globosa	GO:0006555	methionine metabolic process	biological_process	ks	weight01	0.06305
+4DS	M.globosa	GO:0006413	translational initiation	biological_process	ks	weight01	0.06977
+4DS	M.globosa	GO:0006333	chromatin assembly or disassembly	biological_process	ks	weight01	0.07356
+4DS	M.globosa	GO:0007010	cytoskeleton organization	biological_process	ks	weight01	0.07873
+4DS	M.globosa	GO:0006096	glycolysis	biological_process	ks	weight01	0.08375
+4DS	M.globosa	GO:0006730	one-carbon compound metabolic process	biological_process	ks	weight01	0.0875
+4DS	M.globosa	GO:0007067	mitosis	biological_process	ks	weight01	0.09247
+4DS	M.globosa	GO:0006631	fatty acid metabolic process	biological_process	ks	weight01	0.09336
+4DS	M.globosa	GO:0009719	response to endogenous stimulus	biological_process	ks	weight01	0.0944
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DS	M.globosa	GO:0003735	structural constituent of ribosome	molecular_function	ks	weight01	4.4e-07
+4DS	M.globosa	GO:0005525	GTP binding	molecular_function	ks	weight01	0.0004
+4DS	M.globosa	GO:0016787	hydrolase activity	molecular_function	ks	weight01	0.0029
+4DS	M.globosa	GO:0003924	GTPase activity	molecular_function	ks	weight01	0.0056
+4DS	M.globosa	GO:0008905	mannose-phosphate guanylyltransferase activity	molecular_function	ks	weight01	0.0113
+4DS	M.globosa	GO:0005198	structural molecule activity	molecular_function	ks	weight01	0.0132
+4DS	M.globosa	GO:0046912	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer	molecular_function	ks	weight01	0.0157
+4DS	M.globosa	GO:0008137	NADH dehydrogenase (ubiquinone) activity	molecular_function	ks	weight01	0.0183
+4DS	M.globosa	GO:0019205	nucleobase, nucleoside, nucleotide kinase activity	molecular_function	ks	weight01	0.0209
+4DS	M.globosa	GO:0003746	translation elongation factor activity	molecular_function	ks	weight01	0.0299
+4DS	M.globosa	GO:0003743	translation initiation factor activity	molecular_function	ks	weight01	0.0369
+4DS	M.globosa	GO:0004448	isocitrate dehydrogenase activity	molecular_function	ks	weight01	0.0394
+4DS	M.globosa	GO:0008193	tRNA guanylyltransferase activity	molecular_function	ks	weight01	0.0408
+4DS	M.globosa	GO:0003720	telomerase activity	molecular_function	ks	weight01	0.0408
+4DS	M.globosa	GO:0003896	DNA primase activity	molecular_function	ks	weight01	0.0408
+4DS	M.globosa	GO:0033677	DNA/RNA helicase activity	molecular_function	ks	weight01	0.0408
+4DS	M.globosa	GO:0043338	CTP:2,3-di-O-geranylgeranyl-sn-glycero-1-phosphate cytidyltransferase	molecular_function	ks	weight01	0.0408
+4DS	M.globosa	GO:0043814	phospholactate guanylyltransferase activity	molecular_function	ks	weight01	0.0408
+4DS	M.globosa	GO:0003724	RNA helicase activity	molecular_function	ks	weight01	0.0409
+4DS	M.globosa	GO:0050662	coenzyme binding	molecular_function	ks	weight01	0.0412
+4DS	M.globosa	GO:0004672	protein kinase activity	molecular_function	ks	weight01	0.0416
+4DS	M.globosa	GO:0016763	transferase activity, transferring pentosyl groups	molecular_function	ks	weight01	0.0443
+4DS	M.globosa	GO:0008175	tRNA methyltransferase activity	molecular_function	ks	weight01	0.0604
+4DS	M.globosa	GO:0008318	protein prenyltransferase activity	molecular_function	ks	weight01	0.064
+4DS	M.globosa	GO:0004812	aminoacyl-tRNA ligase activity	molecular_function	ks	weight01	0.0755
+4DS	M.globosa	GO:0030234	enzyme regulator activity	molecular_function	ks	weight01	0.0885
+4DS	M.globosa	GO:0016209	antioxidant activity	molecular_function	ks	weight01	0.096
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+4DS	M.globosa	GO:0005840	ribosome	cellular_component	ks	weight01	1.2e-07
+4DS	M.globosa	GO:0005737	cytoplasm	cellular_component	ks	weight01	0.00046
+4DS	M.globosa	GO:0005829	cytosol	cellular_component	ks	weight01	0.00569
+4DS	M.globosa	GO:0015935	small ribosomal subunit	cellular_component	ks	weight01	0.00621
+4DS	M.globosa	GO:0005739	mitochondrion	cellular_component	ks	weight01	0.02377
+4DS	M.globosa	GO:0005886	plasma membrane	cellular_component	ks	weight01	0.02797
+4DS	M.globosa	GO:0009536	plastid	cellular_component	ks	weight01	0.03794
+4DS	M.globosa	GO:0005856	cytoskeleton	cellular_component	ks	weight01	0.06958
+4DS	M.globosa	GO:0005794	Golgi apparatus	cellular_component	ks	weight01	0.09676
+4DS	M.globosa	GO:0005874	microtubule	cellular_component	ks	weight01	0.09977
+4DS	M.globosa	GO:0000786	nucleosome	cellular_component	ks	weight01	0.10237
+4DS	M.globosa	GO:0005815	microtubule organizing center	cellular_component	ks	weight01	0.13458
+4DS	M.globosa	GO:0005623	cell	cellular_component	ks	weight01	0.18458
+4DS	M.globosa	GO:0030131	clathrin adaptor complex	cellular_component	ks	weight01	0.18516
+4DS	M.globosa	GO:0000151	ubiquitin ligase complex	cellular_component	ks	weight01	0.18967
+4DS	M.globosa	GO:0030529	ribonucleoprotein complex	cellular_component	ks	weight01	0.19166
+4DS	M.globosa	GO:0000139	Golgi membrane	cellular_component	ks	weight01	0.22858
+4DS	M.globosa	GO:0005783	endoplasmic reticulum	cellular_component	ks	weight01	0.23177
+4DS	M.globosa	GO:0031227	intrinsic to endoplasmic reticulum membrane	cellular_component	ks	weight01	0.24063
+4DS	M.globosa	GO:0005798	Golgi-associated vesicle	cellular_component	ks	weight01	0.25459
+4DS	M.globosa	GO:0000785	chromatin	cellular_component	ks	weight01	0.26341
+4DS	M.globosa	GO:0005730	nucleolus	cellular_component	ks	weight01	0.2718
+4DS	M.globosa	GO:0016459	myosin complex	cellular_component	ks	weight01	0.27194
+4DS	M.globosa	GO:0005743	mitochondrial inner membrane	cellular_component	ks	weight01	0.27777
+4DS	M.globosa	GO:0005618	cell wall	cellular_component	ks	weight01	0.28013
+4DS	M.globosa	GO:0005777	peroxisome	cellular_component	ks	weight01	0.28042
+
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+M.furfur	M.globosa	GO:0006412	translation	biological_process	ks	weight01	9.7e-05
+M.furfur	M.globosa	GO:0006414	translational elongation	biological_process	ks	weight01	0.0023
+M.furfur	M.globosa	GO:0007010	cytoskeleton organization	biological_process	ks	weight01	0.0025
+M.furfur	M.globosa	GO:0006091	generation of precursor metabolites and energy	biological_process	ks	weight01	0.003
+M.furfur	M.globosa	GO:0016071	mRNA metabolic process	biological_process	ks	weight01	0.0195
+M.furfur	M.globosa	GO:0006413	translational initiation	biological_process	ks	weight01	0.0203
+M.furfur	M.globosa	GO:0042773	ATP synthesis coupled electron transport	biological_process	ks	weight01	0.0206
+M.furfur	M.globosa	GO:0007049	cell cycle	biological_process	ks	weight01	0.0217
+M.furfur	M.globosa	GO:0030163	protein catabolic process	biological_process	ks	weight01	0.0271
+M.furfur	M.globosa	GO:0015031	protein transport	biological_process	ks	weight01	0.0286
+M.furfur	M.globosa	GO:0040007	growth	biological_process	ks	weight01	0.0535
+M.furfur	M.globosa	GO:0006422	aspartyl-tRNA aminoacylation	biological_process	ks	weight01	0.055
+M.furfur	M.globosa	GO:0006796	phosphate metabolic process	biological_process	ks	weight01	0.0563
+M.furfur	M.globosa	GO:0009719	response to endogenous stimulus	biological_process	ks	weight01	0.0592
+M.furfur	M.globosa	GO:0006310	DNA recombination	biological_process	ks	weight01	0.061
+M.furfur	M.globosa	GO:0006334	nucleosome assembly	biological_process	ks	weight01	0.0622
+M.furfur	M.globosa	GO:0006221	pyrimidine nucleotide biosynthetic process	biological_process	ks	weight01	0.0653
+M.furfur	M.globosa	GO:0006511	ubiquitin-dependent protein catabolic process	biological_process	ks	weight01	0.0658
+M.furfur	M.globosa	GO:0006367	transcription initiation from RNA polymerase II promoter	biological_process	ks	weight01	0.0707
+M.furfur	M.globosa	GO:0044238	primary metabolic process	biological_process	ks	weight01	0.074
+M.furfur	M.globosa	GO:0007275	multicellular organismal development	biological_process	ks	weight01	0.0744
+M.furfur	M.globosa	GO:0000003	reproduction	biological_process	ks	weight01	0.0873
+M.furfur	M.globosa	GO:0006631	fatty acid metabolic process	biological_process	ks	weight01	0.0879
+M.furfur	M.globosa	GO:0006418	tRNA aminoacylation for protein translation	biological_process	ks	weight01	0.0997
+M.furfur	M.globosa	GO:0046488	phosphatidylinositol metabolic process	biological_process	ks	weight01	0.1047
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+M.furfur	M.globosa	GO:0003735	structural constituent of ribosome	molecular_function	ks	weight01	3.3e-08
+M.furfur	M.globosa	GO:0008137	NADH dehydrogenase (ubiquinone) activity	molecular_function	ks	weight01	0.0013
+M.furfur	M.globosa	GO:0000166	nucleotide binding	molecular_function	ks	weight01	0.007
+M.furfur	M.globosa	GO:0005198	structural molecule activity	molecular_function	ks	weight01	0.0135
+M.furfur	M.globosa	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	molecular_function	ks	weight01	0.0155
+M.furfur	M.globosa	GO:0019205	nucleobase, nucleoside, nucleotide kinase activity	molecular_function	ks	weight01	0.0198
+M.furfur	M.globosa	GO:0003924	GTPase activity	molecular_function	ks	weight01	0.0224
+M.furfur	M.globosa	GO:0003743	translation initiation factor activity	molecular_function	ks	weight01	0.0263
+M.furfur	M.globosa	GO:0003993	acid phosphatase activity	molecular_function	ks	weight01	0.0297
+M.furfur	M.globosa	GO:0008565	protein transporter activity	molecular_function	ks	weight01	0.0333
+M.furfur	M.globosa	GO:0005525	GTP binding	molecular_function	ks	weight01	0.0351
+M.furfur	M.globosa	GO:0005524	ATP binding	molecular_function	ks	weight01	0.0363
+M.furfur	M.globosa	GO:0016853	isomerase activity	molecular_function	ks	weight01	0.0375
+M.furfur	M.globosa	GO:0004815	aspartate-tRNA ligase activity	molecular_function	ks	weight01	0.0475
+M.furfur	M.globosa	GO:0003746	translation elongation factor activity	molecular_function	ks	weight01	0.058
+M.furfur	M.globosa	GO:0004402	histone acetyltransferase activity	molecular_function	ks	weight01	0.0586
+M.furfur	M.globosa	GO:0016413	O-acetyltransferase activity	molecular_function	ks	weight01	0.0598
+M.furfur	M.globosa	GO:0016410	N-acyltransferase activity	molecular_function	ks	weight01	0.0641
+M.furfur	M.globosa	GO:0004129	cytochrome-c oxidase activity	molecular_function	ks	weight01	0.0753
+M.furfur	M.globosa	GO:0004730	pseudouridylate synthase activity	molecular_function	ks	weight01	0.084
+M.furfur	M.globosa	GO:0003676	nucleic acid binding	molecular_function	ks	weight01	0.0906
+M.furfur	M.globosa	GO:0016406	carnitine O-acyltransferase activity	molecular_function	ks	weight01	0.1
+M.furfur	M.globosa	GO:0016454	C-palmitoyltransferase activity	molecular_function	ks	weight01	0.1
+M.furfur	M.globosa	GO:0008233	peptidase activity	molecular_function	ks	weight01	0.1063
+M.furfur	M.globosa	GO:0016411	acylglycerol O-acyltransferase activity	molecular_function	ks	weight01	0.1144
+M.furfur	M.globosa	GO:0016751	S-succinyltransferase activity	molecular_function	ks	weight01	0.1144
+
+Treatment	Control	goAcc	Term	TermType	Test	Algorithm	p_value
+M.furfur	M.globosa	GO:0005840	ribosome	cellular_component	ks	weight01	1.3e-07
+M.furfur	M.globosa	GO:0005737	cytoplasm	cellular_component	ks	weight01	0.0008
+M.furfur	M.globosa	GO:0005815	microtubule organizing center	cellular_component	ks	weight01	0.0156
+M.furfur	M.globosa	GO:0005856	cytoskeleton	cellular_component	ks	weight01	0.0294
+M.furfur	M.globosa	GO:0005739	mitochondrion	cellular_component	ks	weight01	0.0377
+M.furfur	M.globosa	GO:0005773	vacuole	cellular_component	ks	weight01	0.0446
+M.furfur	M.globosa	GO:0005829	cytosol	cellular_component	ks	weight01	0.0573
+M.furfur	M.globosa	GO:0009536	plastid	cellular_component	ks	weight01	0.0604
+M.furfur	M.globosa	GO:0030529	ribonucleoprotein complex	cellular_component	ks	weight01	0.0993
+M.furfur	M.globosa	GO:0015935	small ribosomal subunit	cellular_component	ks	weight01	0.1041
+M.furfur	M.globosa	GO:0005743	mitochondrial inner membrane	cellular_component	ks	weight01	0.1194
+M.furfur	M.globosa	GO:0000786	nucleosome	cellular_component	ks	weight01	0.126
+M.furfur	M.globosa	GO:0005730	nucleolus	cellular_component	ks	weight01	0.1611
+M.furfur	M.globosa	GO:0005740	mitochondrial envelope	cellular_component	ks	weight01	0.2043
+M.furfur	M.globosa	GO:0005839	proteasome core complex	cellular_component	ks	weight01	0.2387
+M.furfur	M.globosa	GO:0005886	plasma membrane	cellular_component	ks	weight01	0.2403
+M.furfur	M.globosa	GO:0005667	transcription factor complex	cellular_component	ks	weight01	0.2429
+M.furfur	M.globosa	GO:0005798	Golgi-associated vesicle	cellular_component	ks	weight01	0.2453
+M.furfur	M.globosa	GO:0000139	Golgi membrane	cellular_component	ks	weight01	0.2465
+M.furfur	M.globosa	GO:0005777	peroxisome	cellular_component	ks	weight01	0.2741
+M.furfur	M.globosa	GO:0005623	cell	cellular_component	ks	weight01	0.2818
+
+

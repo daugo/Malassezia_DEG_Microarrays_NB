@@ -1,0 +1,512 @@
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+
+Building most specific GOs .....	( 1150 GO terms found. )
+
+Build GO DAG topology ..........	( 1464 GO terms and 1753 relations. )
+
+Annotating nodes ...............	( 2999 genes annotated to the GO terms. )
+
+Building most specific GOs .....	( 1150 GO terms found. )
+
+Build GO DAG topology ..........	( 1464 GO terms and 1753 relations. )
+
+Annotating nodes ...............	( 2999 genes annotated to the GO terms. )
+[1] "GO Analysis for SAM Results: 4DST80 vs M.furfur ."
+[1] "GO Analysis for Ebayes Results: 4DST80 vs M.furfur ."
+
+			 -- Classic Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 score order:  increasing 
+
+			 -- Classic Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 score order:  increasing 
+
+			 -- Elim Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 cutOff:  0.01 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(0 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(0 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(0 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(0 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(0 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(417 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(429 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(429 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(429 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(429 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(543 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(543 eliminated genes)
+
+			 -- Elim Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 cutOff:  0.01 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(0 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(0 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(0 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(0 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(0 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(33 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(457 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(461 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(461 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(461 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(575 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(575 eliminated genes)
+
+			 -- Weight01 Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(29 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(37 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(126 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(172 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(219 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(303 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(679 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(1242 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(1512 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(1873 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(2297 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(2801 eliminated genes)
+
+			 -- Weight01 Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(29 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(37 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(126 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(172 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(219 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(303 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(679 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(1242 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(1512 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(1873 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(2297 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(2801 eliminated genes)
+
+			 -- LEA Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 neighborhood depth:  2 
+			 score order:  increasing 
+
+	 Computing classical p-values ...
+	 Computing local p-values ...
+		 56 local optimal nodes found
+		 175 corrected p-values 
+
+			 -- LEA Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  ks 
+			 neighborhood depth:  2 
+			 score order:  increasing 
+
+	 Computing classical p-values ...
+	 Computing local p-values ...
+		 50 local optimal nodes found
+		 178 corrected p-values 
+
+			 -- Classic Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 score order:  increasing 
+
+			 -- Classic Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 score order:  increasing 
+
+			 -- Elim Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 cutOff:  0.01 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(0 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(0 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(0 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(0 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(0 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(5 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(26 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(26 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(57 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(64 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(179 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(179 eliminated genes)
+
+			 -- Elim Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 cutOff:  0.01 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(0 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(0 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(0 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(0 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(0 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(0 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(21 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(21 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(40 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(47 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(162 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(162 eliminated genes)
+
+			 -- Weight01 Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(29 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(37 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(126 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(172 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(219 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(303 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(679 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(1242 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(1512 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(1873 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(2297 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(2801 eliminated genes)
+
+			 -- Weight01 Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 score order:  increasing 
+
+	 Level 14:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 13:	2 nodes to be scored	(0 eliminated genes)
+
+	 Level 12:	4 nodes to be scored	(29 eliminated genes)
+
+	 Level 11:	5 nodes to be scored	(37 eliminated genes)
+
+	 Level 10:	14 nodes to be scored	(126 eliminated genes)
+
+	 Level 9:	29 nodes to be scored	(172 eliminated genes)
+
+	 Level 8:	65 nodes to be scored	(219 eliminated genes)
+
+	 Level 7:	119 nodes to be scored	(303 eliminated genes)
+
+	 Level 6:	129 nodes to be scored	(679 eliminated genes)
+
+	 Level 5:	93 nodes to be scored	(1242 eliminated genes)
+
+	 Level 4:	67 nodes to be scored	(1512 eliminated genes)
+
+	 Level 3:	28 nodes to be scored	(1873 eliminated genes)
+
+	 Level 2:	10 nodes to be scored	(2297 eliminated genes)
+
+	 Level 1:	1 nodes to be scored	(2801 eliminated genes)
+
+			 -- LEA Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 neighborhood depth:  2 
+			 score order:  increasing 
+
+	 Computing classical p-values ...
+	 Computing local p-values ...
+		 40 local optimal nodes found
+		 217 corrected p-values 
+
+			 -- LEA Algorithm -- 
+
+		 the algorithm is scoring 568 nontrivial nodes
+		 parameters: 
+			 test statistic:  t 
+			 neighborhood depth:  2 
+			 score order:  increasing 
+
+	 Computing classical p-values ...
+	 Computing local p-values ...
+		 42 local optimal nodes found
+		 213 corrected p-values 
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 10 
+Number of Edges = 10 
+
+$complete.dag
+[1] "A graph with 10 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 31 
+Number of Edges = 34 
+
+$complete.dag
+[1] "A graph with 31 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 31 
+Number of Edges = 34 
+
+$complete.dag
+[1] "A graph with 31 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 26 
+Number of Edges = 29 
+
+$complete.dag
+[1] "A graph with 26 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 16 
+Number of Edges = 17 
+
+$complete.dag
+[1] "A graph with 16 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 23 
+Number of Edges = 24 
+
+$complete.dag
+[1] "A graph with 23 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 22 
+Number of Edges = 23 
+
+$complete.dag
+[1] "A graph with 22 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 23 
+Number of Edges = 24 
+
+$complete.dag
+[1] "A graph with 23 nodes."
+
+null device 
+          1 
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 14 
+Number of Edges = 14 
+
+$complete.dag
+[1] "A graph with 14 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 27 
+Number of Edges = 28 
+
+$complete.dag
+[1] "A graph with 27 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 24 
+Number of Edges = 24 
+
+$complete.dag
+[1] "A graph with 24 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 23 
+Number of Edges = 24 
+
+$complete.dag
+[1] "A graph with 23 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 15 
+Number of Edges = 15 
+
+$complete.dag
+[1] "A graph with 15 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 23 
+Number of Edges = 24 
+
+$complete.dag
+[1] "A graph with 23 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 23 
+Number of Edges = 24 
+
+$complete.dag
+[1] "A graph with 23 nodes."
+
+$dag
+A graphNEL graph with directed edges
+Number of Nodes = 17 
+Number of Edges = 17 
+
+$complete.dag
+[1] "A graph with 17 nodes."
+
+null device 
+          1 

@@ -1,0 +1,109 @@
+Loading required package: methods
+Loading required package: graph
+Loading required package: Biobase
+Loading required package: BiocGenerics
+
+Attaching package: ‘BiocGenerics’
+
+The following object(s) are masked from ‘package:graph’:
+
+    union
+
+The following object(s) are masked from ‘package:stats’:
+
+    xtabs
+
+The following object(s) are masked from ‘package:base’:
+
+    anyDuplicated, cbind, colnames, duplicated, eval, Filter, Find,
+    get, intersect, lapply, Map, mapply, mget, order, paste, pmax,
+    pmax.int, pmin, pmin.int, Position, rbind, Reduce, rep.int,
+    rownames, sapply, setdiff, table, tapply, union, unique
+
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+Loading required package: GO.db
+Loading required package: AnnotationDbi
+Loading required package: DBI
+
+Loading required package: SparseM
+Package SparseM (0.96) loaded.
+	   To cite, see citation("SparseM")
+
+
+Attaching package: ‘SparseM’
+
+The following object(s) are masked from ‘package:base’:
+
+    backsolve
+
+
+Attaching package: ‘RMySQL’
+
+The following object(s) are masked from ‘package:RSQLite’:
+
+    dbBuildTableDefinition, isIdCurrent, safe.write
+
+Warning message:
+In write.table(GenTable_ks.classic_SAM, file = table_outfile_SAM,  :
+  appending column names to file
+Loading required package: Rgraphviz
+Loading required package: grid
+
+Attaching package: ‘Rgraphviz’
+
+The following object(s) are masked from ‘package:grid’:
+
+    bezierPoints
+
+Warning message:
+In write.table(GenTable_ks.elim_SAM, file = table_outfile_SAM, sep = "\t",  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_ks.weight01_SAM, file = table_outfile_SAM,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_ks.lea_SAM, file = table_outfile_SAM, sep = "\t",  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_t.classic_SAM, file = table_outfile_SAM,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_t.elim_SAM, file = table_outfile_SAM, sep = "\t",  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_t.weight01_SAM, file = table_outfile_SAM,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_t.lea_SAM, file = table_outfile_SAM, sep = "\t",  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_ks.classic_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_ks.elim_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_ks.weight01_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_ks.lea_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_t.classic_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_t.elim_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file
+Warning message:
+In write.table(GenTable_t.weight01_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file
+Error in if ((n <- as.integer(n[1L])) > 0) { : 
+  missing value where TRUE/FALSE needed
+Warning message:
+In write.table(GenTable_t.lea_Ebayes, file = table_outfile_Ebayes,  :
+  appending column names to file

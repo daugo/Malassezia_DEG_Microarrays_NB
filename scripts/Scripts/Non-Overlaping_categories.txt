@@ -1,0 +1,108 @@
+4DST80	4DS	GO:0006644	phospholipid metabolic process	biological_process	24	2	1.43	ks	weight01	0.01745	SAM	"MGL_0956(143), MGL_1161(80)"
+4DST80	4DS	GO:0006950	response to stress	biological_process	161	8	9.57	ks	weight01	0.02381	SAM	"MGL_0033(57), MGL_3512(26), MGL_0266(92), MGL_3214(43), MGL_0058(168), MGL_0788(157), MGL_2969(64), MGL_3154(11)"
+4DST80	4DS	GO:0008652	cellular amino acid biosynthetic process	biological_process	54	3	3.21	ks	weight01	0.03263	SAM	"MGL_0538(182), MGL_4145(128), MGL_3299(39)"
+4DST80	4DS	GO:0044403	"symbiosis, encompassing mutualism throug..."	biological_process	8	1	0.48	ks	weight01	0.05569	SAM	MGL_0087(100)
+4DST80	4DS	GO:0006096	glycolysis	biological_process	13	1	0.77	ks	weight01	0.05735	SAM	MGL_1349(19)
+4DST80	4DS	GO:0006576	cellular biogenic amine metabolic proces...	biological_process	8	1	0.48	ks	weight01	0.08889	SAM	MGL_0538(182)
+4DST80	4DS	GO:0009605	response to external stimulus	biological_process	11	1	0.65	ks	weight01	0.09276	SAM	MGL_3154(11)
+4DST80	4DS	GO:0005694	chromosome	cellular_component	94	6	6.16	ks	weight01	0.205	SAM	"MGL_1280(113), MGL_3230(56), MGL_3512(26), MGL_2139(88), MGL_3780(152), MGL_1410(46)"
+4DST80	4DS	GO:0015629	actin cytoskeleton	cellular_component	10	1	0.66	ks	weight01	0.277	SAM	MGL_0033(57)
+4DST80	4DS	GO:0032993	protein-DNA complex	cellular_component	12	2	0.79	ks	weight01	0.345	SAM	"MGL_3512(26), MGL_2139(88)"
+4DST80	4DS	GO:0004622	lysophospholipase activity	molecular_function	5	1	0.28	ks	weight01	0.0159	SAM	MGL_3513(145)
+4DST80	4DS	GO:0016408	C-acyltransferase activity	molecular_function	12	1	0.66	ks	weight01	0.0191	SAM	MGL_1404(201)
+4DST80	4DS	GO:0004339	"glucan 1,4-alpha-glucosidase activity"	molecular_function	48	2	2.66	ks	weight01	0.0292	SAM	"MGL_2214(114), MGL_2511(148)"
+4DST80	4DS	GO:0016874	ligase activity	molecular_function	126	9	6.97	ks	weight01	0.0379	SAM	"MGL_1647(16), MGL_0182(22), MGL_2516(34), MGL_0788(157), MGL_0502(65), MGL_3288(141), MGL_2020(178), MGL_1974(132), MGL_2525(94)"
+4DST80	4DS	GO:0005543	phospholipid binding	molecular_function	11	1	0.61	ks	weight01	0.0395	SAM	MGL_0863(197)
+4DST80	4DS	GO:0004812	aminoacyl-tRNA ligase activity	molecular_function	38	4	2.1	ks	weight01	0.045	SAM	"MGL_1647(16), MGL_2516(34), MGL_0502(65), MGL_3288(141)"
+4DST80	4DS	GO:0020037	heme binding	molecular_function	27	1	1.49	ks	weight01	0.0676	SAM	MGL_3743(86)
+4DST80	4DS	GO:0004003	ATP-dependent DNA helicase activity	molecular_function	91	1	5.04	ks	weight01	0.0724	SAM	MGL_4099(116)
+4DST80	4DS	GO:0016746	"transferase activity, transferring acyl ..."	molecular_function	60	1	3.32	ks	weight01	0.0801	SAM	MGL_1404(201)
+4DST80	4DS	GO:0016879	"ligase activity, forming carbon-nitrogen..."	molecular_function	67	5	3.71	ks	weight01	0.0857	SAM	"MGL_0182(22), MGL_0788(157), MGL_2020(178), MGL_1974(132), MGL_2525(94)"
+4DST80	4DS	GO:0004842	ubiquitin-protein ligase activity	molecular_function	28	3	1.55	ks	weight01	0.0986	SAM	"MGL_0182(22), MGL_0788(157), MGL_2525(94)"
+4DST80	4DS	GO:0052742	phosphatidylinositol kinase activity	molecular_function	7	3	0.39	ks	weight01	0.0991	SAM	"MGL_2920(38), MGL_3767(77), MGL_1161(80)"
+4DST80	4DS	GO:0019206	nucleoside kinase activity	molecular_function	19	1	1.05	ks	weight01	0.1281	SAM	MGL_3138(204)
+4DST80	M.furfur	GO:0009056	catabolic process	biological_process	369	22	19.72	ks	weight01	0.0071	SAM	"MGL_3705(119), MGL_0785(194), MGL_2947(185), MGL_0965(72), MGL_3306(180), MGL_1349(34), MGL_3154(145), MGL_3752(47), MGL_0468(209), MGL_1416(66), MGL_0234(207), MGL_1342(44), MGL_0893(108), MGL_0798(121), MGL_4051(210), MGL_3418(201), MGL_0395(40), MGL_1721(37), MGL_1776(129), MGL_3329(112), MGL_1136(154), MGL_3402(155)"
+4DST80	M.furfur	GO:0006612	protein targeting to membrane	biological_process	8	2	0.43	ks	weight01	0.0156	SAM	"MGL_1485(60), MGL_0598(110)"
+4DST80	M.furfur	GO:0072594	establishment of protein localization to...	biological_process	9	2	0.48	ks	weight01	0.0379	SAM	"MGL_1485(60), MGL_0598(110)"
+4DST80	M.furfur	GO:0006520	cellular amino acid metabolic process	biological_process	119	11	6.36	ks	weight01	0.0415	SAM	"MGL_1155(175), MGL_1647(132), MGL_3314(75), MGL_3519(65), MGL_3819(80), MGL_3353(131), MGL_3246(81), MGL_3299(71), MGL_3740(144), MGL_3741(123), MGL_0450(88)"
+4DST80	M.furfur	GO:0006541	glutamine metabolic process	biological_process	5	1	0.27	ks	weight01	0.0715	SAM	MGL_0450(88)
+4DST80	M.furfur	GO:0005975	carbohydrate metabolic process	biological_process	135	12	7.21	ks	weight01	0.0798	SAM	"MGL_0627(16), MGL_0965(72), MGL_1349(34), MGL_2819(164), MGL_3154(145), MGL_1416(66), MGL_1342(44), MGL_0893(108), MGL_3418(201), MGL_0777(200), MGL_0450(88), MGL_3120(96)"
+4DST80	M.furfur	GO:0016043	cellular component organization	biological_process	261	16	13.95	ks	weight01	0.0805	SAM	"MGL_2019(143), MGL_0965(72), MGL_3511(32), MGL_3813(87), MGL_1485(60), MGL_1409(172), MGL_2192(38), MGL_1280(76), MGL_3154(145), MGL_0275(140), MGL_3512(10), MGL_0305(62), MGL_1283(17), MGL_4129(198), MGL_0598(110), MGL_1551(23)"
+4DST80	M.furfur	GO:0006066	alcohol metabolic process	biological_process	38	4	2.03	ks	weight01	0.0915	SAM	"MGL_1349(34), MGL_1416(66), MGL_1712(13), MGL_3120(96)"
+4DST80	M.furfur	GO:0008299	isoprenoid biosynthetic process	biological_process	9	1	0.48	ks	weight01	0.1022	SAM	MGL_0638(148)
+4DST80	M.furfur	GO:0016023	cytoplasmic membrane-bounded vesicle	cellular_component	20	1	1.13	ks	weight01	0.04787	SAM	MGL_3114(53)
+4DST80	M.furfur	GO:0015934	large ribosomal subunit	cellular_component	6	1	0.34	ks	weight01	0.08209	SAM	MGL_0387(141)
+4DST80	M.furfur	GO:0005794	Golgi apparatus	cellular_component	53	2	3	ks	weight01	0.35761	SAM	"MGL_2948(54), MGL_3114(53)"
+4DST80	M.furfur	GO:0004579	dolichyl-diphosphooligosaccharide-protei...	molecular_function	5	1	0.26	ks	weight01	0.0081	SAM	MGL_0777(200)
+4DST80	M.furfur	GO:0046912	"transferase activity, transferring acyl ..."	molecular_function	6	2	0.31	ks	weight01	0.0417	SAM	"MGL_1342(44), MGL_3987(170)"
+4DST80	M.furfur	GO:0031406	carboxylic acid binding	molecular_function	17	2	0.87	ks	weight01	0.0502	SAM	"MGL_2302(5), MGL_1131(49)"
+4DST80	M.furfur	GO:0004674	protein serine/threonine kinase activity	molecular_function	86	4	4.39	ks	weight01	0.052	SAM	"MGL_3362(41), MGL_3060(135), MGL_3390(95), MGL_2038(77)"
+4DST80	M.furfur	GO:0003824	catalytic activity	molecular_function	1873	95	95.55	ks	weight01	0.0703	SAM	"MGL_3705(119), MGL_1155(175), MGL_1529(67), MGL_0266(59), MGL_2117(122), MGL_0499(182), MGL_1422(97), MGL_4140(99), MGL_3513(203), MGL_1532(114), MGL_1023(191), MGL_3547(24), MGL_3362(41), MGL_2126(195), MGL_4150(181), MGL_0785(194), MGL_1005(127), MGL_1178(29), MGL_0627(16), MGL_1647(132), MGL_2258(160), MGL_1854(50), MGL_2947(185), MGL_3045(20), MGL_3306(180), MGL_1349(34), MGL_2382(212), MGL_2948(54), MGL_1749(184), MGL_2819(164), MGL_3314(75), MGL_4094(48), MGL_1781(73), MGL_2556(179), MGL_3154(145), MGL_1945(111), MGL_2577(178), MGL_0128(3), MGL_3752(47), MGL_0468(209), MGL_3023(117), MGL_2920(28), MGL_3519(65), MGL_1416(66), MGL_2846(45), MGL_2366(94), MGL_3819(80), MGL_1484(130), MGL_0234(207), MGL_0893(108), MGL_1342(44), MGL_0798(121), MGL_4051(210), MGL_1712(13), MGL_0548(89), MGL_3418(201), MGL_0395(40), MGL_1783(208), MGL_2358(186), MGL_1721(37), MGL_0777(200), MGL_2834(206), MGL_0981(103), MGL_3353(131), MGL_1566(152), MGL_1745(113), MGL_3060(135), MGL_2377(158), MGL_3762(57), MGL_1776(129), MGL_2003(173), MGL_4129(198), MGL_3246(81), MGL_3299(71), MGL_3767(91), MGL_1010(109), MGL_3390(95), MGL_0638(148), MGL_3740(144), MGL_1551(23), MGL_1619(19), MGL_3741(123), MGL_3466(205), MGL_0450(88), MGL_0326(14), MGL_3329(112), MGL_3987(170), MGL_3956(176), MGL_3120(96), MGL_2511(64), MGL_3787(171), MGL_1136(154), MGL_3402(155), MGL_2038(77), MGL_0104(33)"
+4DST80	M.furfur	GO:0016491	oxidoreductase activity	molecular_function	269	11	13.72	ks	weight01	0.0732	SAM	"MGL_4150(181), MGL_1005(127), MGL_2947(185), MGL_1749(184), MGL_1781(73), MGL_3154(145), MGL_3023(117), MGL_0234(207), MGL_3299(71), MGL_3740(144), MGL_3120(96)"
+4DST80	M.furfur	GO:0022890	inorganic cation transmembrane transport...	molecular_function	56	3	2.86	ks	weight01	0.0809	SAM	"MGL_1005(127), MGL_0128(3), MGL_2834(206)"
+4DST80	M.furfur	GO:0004872	receptor activity	molecular_function	36	2	1.84	ks	weight01	0.085	SAM	"MGL_0965(72), MGL_3060(135)"
+4DST80	M.furfur	GO:0005216	ion channel activity	molecular_function	9	1	0.46	ks	weight01	0.0937	SAM	MGL_2751(8)
+4DST80	M.furfur	GO:0008092	cytoskeletal protein binding	molecular_function	29	1	1.48	ks	weight01	0.0956	SAM	MGL_0275(140)
+4DST80	M.furfur	GO:0004806	triglyceride lipase activity	molecular_function	10	1	0.51	ks	weight01	0.0985	SAM	MGL_0798(121)
+4DS	M.furfur	GO:0006811	ion transport	biological_process	102	5	3.07	ks	weight01	0.0059	SAM	"MGL_0138(21), MGL_0128(4), MGL_4263(32), MGL_1613(40), MGL_1005(43)"
+4DS	M.furfur	GO:0046483	heterocycle metabolic process	biological_process	110	4	3.31	ks	weight01	0.0343	SAM	"MGL_0128(4), MGL_2020(101), MGL_0356(42), MGL_2373(68)"
+4DS	M.furfur	GO:0009082	branched chain family amino acid biosynt...	biological_process	7	2	0.21	ks	weight01	0.0621	SAM	"MGL_1583(78), MGL_0905(107)"
+4DS	M.furfur	GO:0044248	cellular catabolic process	biological_process	74	1	2.23	ks	weight01	0.0858	SAM	MGL_3705(14)
+4DS	M.furfur	GO:0032774	RNA biosynthetic process	biological_process	87	2	2.62	ks	weight01	0.0998	SAM	"MGL_0326(30), MGL_1453(88)"
+4DS	M.furfur	GO:0007264	small GTPase mediated signal transductio...	biological_process	58	2	1.75	ks	weight01	0.1064	SAM	"MGL_0326(30), MGL_0548(46)"
+4DS	M.furfur	GO:0050790	regulation of catalytic activity	biological_process	62	4	1.87	ks	weight01	0.1176	SAM	"MGL_0788(59), MGL_3547(8), MGL_0182(45), MGL_2526(91)"
+4DS	M.furfur	GO:0006006	glucose metabolic process	biological_process	19	1	0.57	ks	weight01	0.1332	SAM	MGL_3189(82)
+4DS	M.furfur	GO:0046488	phosphatidylinositol metabolic process	biological_process	7	1	0.21	ks	weight01	0.1406	SAM	MGL_0138(21)
+4DS	M.furfur	GO:0006767	water-soluble vitamin metabolic process	biological_process	14	2	0.42	ks	weight01	0.1453	SAM	"MGL_0588(65), MGL_0356(42)"
+4DS	M.furfur	GO:0034220	ion transmembrane transport	biological_process	16	1	0.48	ks	weight01	0.1543	SAM	MGL_0128(4)
+4DS	M.furfur	GO:0016021	integral to membrane	cellular_component	157	1	4.45	ks	weight01	0.1152	SAM	MGL_2373(68)
+4DS	M.furfur	GO:0045259	proton-transporting ATP synthase complex	cellular_component	23	1	0.65	ks	weight01	0.1704	SAM	MGL_0128(4)
+4DS	M.furfur	GO:0044425	membrane part	cellular_component	220	3	6.23	ks	weight01	0.2885	SAM	"MGL_0138(21), MGL_0128(4), MGL_2373(68)"
+4DS	M.furfur	GO:0005759	mitochondrial matrix	cellular_component	8	1	0.23	ks	weight01	0.2935	SAM	MGL_2351(100)
+4DS	M.furfur	GO:0016469	proton-transporting two-sector ATPase co...	cellular_component	30	2	0.85	ks	weight01	0.3484	SAM	"MGL_0138(21), MGL_0128(4)"
+4DS	M.furfur	GO:0004298	threonine-type endopeptidase activity	molecular_function	23	3	0.65	ks	weight01	0.02	SAM	"MGL_3705(14), MGL_1945(48), MGL_0957(99)"
+4DS	M.furfur	GO:0050662	coenzyme binding	molecular_function	69	3	1.96	ks	weight01	0.03	SAM	"MGL_0588(65), MGL_2302(7), MGL_3727(83)"
+4DS	M.furfur	GO:0030246	carbohydrate binding	molecular_function	5	1	0.14	ks	weight01	0.035	SAM	MGL_0627(16)
+4DS	M.furfur	GO:0008094	DNA-dependent ATPase activity	molecular_function	101	1	2.86	ks	weight01	0.036	SAM	MGL_2183(22)
+4DS	M.furfur	GO:0050661	NADP binding	molecular_function	7	1	0.2	ks	weight01	0.044	SAM	MGL_0588(65)
+4DS	M.furfur	GO:0033764	"steroid dehydrogenase activity, acting o..."	molecular_function	5	1	0.14	ks	weight01	0.047	SAM	MGL_2885(50)
+4DS	M.furfur	GO:0008318	protein prenyltransferase activity	molecular_function	6	1	0.17	ks	weight01	0.054	SAM	MGL_2373(68)
+4DS	M.furfur	GO:0016881	acid-amino acid ligase activity	molecular_function	49	4	1.39	ks	weight01	0.06	SAM	"MGL_0788(59), MGL_3547(8), MGL_0182(45), MGL_2526(91)"
+M.furfur	M.globosa	GO:0007010	cytoskeleton organization	biological_process	39	2	2.29	ks	weight01	0.0025	SAM	"MGL_0275(122), MGL_2662(134)"
+M.furfur	M.globosa	GO:0046039	GTP metabolic process	biological_process	17	2	1	ks	weight01	0.0199	SAM	"MGL_0082(17), MGL_0723(31)"
+M.furfur	M.globosa	GO:0006413	translational initiation	biological_process	15	5	0.88	ks	weight01	0.0203	SAM	"MGL_2192(6), MGL_0120(35), MGL_2492(67), MGL_2554(65), MGL_1052(96)"
+M.furfur	M.globosa	GO:0042773	ATP synthesis coupled electron transport	biological_process	5	2	0.29	ks	weight01	0.0206	SAM	"MGL_0211(19), MGL_3162(63)"
+M.furfur	M.globosa	GO:0007049	cell cycle	biological_process	110	8	6.45	ks	weight01	0.0217	SAM	"MGL_0082(17), MGL_2857(76), MGL_0967(99), MGL_0723(31), MGL_0304(116), MGL_2183(144), MGL_3547(45), MGL_0182(163)"
+M.furfur	M.globosa	GO:0030163	protein catabolic process	biological_process	44	1	2.58	ks	weight01	0.0271	SAM	MGL_1479(152)
+M.furfur	M.globosa	GO:0015031	protein transport	biological_process	137	10	8.04	ks	weight01	0.0286	SAM	"MGL_0465(131), MGL_1633(32), MGL_1261(129), MGL_2963(111), MGL_0296(81), MGL_0977(174), MGL_2666(164), MGL_0326(40), MGL_2678(127), MGL_1143(102)"
+M.furfur	M.globosa	GO:0040007	growth	biological_process	13	2	0.76	ks	weight01	0.0535	SAM	"MGL_2857(76), MGL_0522(175)"
+M.furfur	M.globosa	GO:0006796	phosphate-containing compound metabolic ...	biological_process	131	10	7.68	ks	weight01	0.0563	SAM	"MGL_2761(107), MGL_3362(93), MGL_0949(37), MGL_2857(76), MGL_1264(190), MGL_3120(24), MGL_3773(179), MGL_0211(19), MGL_3162(63), MGL_2038(195)"
+M.furfur	M.globosa	GO:0009719	response to endogenous stimulus	biological_process	5	1	0.29	ks	weight01	0.0592	SAM	MGL_2527(197)
+M.furfur	M.globosa	GO:0006310	DNA recombination	biological_process	7	1	0.41	ks	weight01	0.061	SAM	MGL_3341(187)
+M.furfur	M.globosa	GO:0034622	cellular macromolecular complex assembly	biological_process	35	6	2.05	ks	weight01	0.0621	SAM	"MGL_3511(36), MGL_0304(116), MGL_0522(175), MGL_0305(110), MGL_1559(199), MGL_3698(70)"
+M.furfur	M.globosa	GO:0006334	nucleosome assembly	biological_process	13	5	0.76	ks	weight01	0.0622	SAM	"MGL_3511(36), MGL_0304(116), MGL_0522(175), MGL_0305(110), MGL_1559(199)"
+M.furfur	M.globosa	GO:0006221	pyrimidine nucleotide biosynthetic proce...	biological_process	6	2	0.35	ks	weight01	0.0653	SAM	"MGL_0082(17), MGL_0723(31)"
+M.furfur	M.globosa	GO:0006511	ubiquitin-dependent protein catabolic pr...	biological_process	37	1	2.17	ks	weight01	0.0658	SAM	MGL_1479(152)
+M.furfur	M.globosa	GO:0006367	transcription initiation from RNA polyme...	biological_process	6	1	0.35	ks	weight01	0.0707	SAM	MGL_0107(154)
+M.furfur	M.globosa	GO:0000003	reproduction	biological_process	49	7	2.87	ks	weight01	0.0873	SAM	"MGL_0967(99), MGL_2666(164), MGL_0522(175), MGL_3547(45), MGL_0182(163), MGL_2527(197), MGL_1603(8)"
+M.furfur	M.globosa	GO:0006631	fatty acid metabolic process	biological_process	8	1	0.47	ks	weight01	0.0879	SAM	MGL_3405(123)
+M.furfur	M.globosa	GO:0005773	vacuole	cellular_component	17	2	1.12	ks	weight01	0.0446	SAM	"MGL_3136(26), MGL_1412(30)"
+M.furfur	M.globosa	GO:0009536	plastid	cellular_component	6	1	0.4	ks	weight01	0.0604	SAM	MGL_1633(32)
+M.furfur	M.globosa	GO:0005730	nucleolus	cellular_component	66	8	4.36	ks	weight01	0.1611	SAM	"MGL_0150(1), MGL_3694(13), MGL_1987(112), MGL_2513(92), MGL_1607(128), MGL_3411(180), MGL_2495(28), MGL_1639(185)"
+M.furfur	M.globosa	GO:0031966	mitochondrial membrane	cellular_component	24	4	1.59	ks	weight01	0.1987	SAM	"MGL_1633(32), MGL_0473(33), MGL_2483(121), MGL_2751(148)"
+M.furfur	M.globosa	GO:0005740	mitochondrial envelope	cellular_component	31	4	2.05	ks	weight01	0.2043	SAM	"MGL_1633(32), MGL_0473(33), MGL_2483(121), MGL_2751(148)"
+M.furfur	M.globosa	GO:0005667	transcription factor complex	cellular_component	12	2	0.79	ks	weight01	0.2429	SAM	"MGL_0107(154), MGL_0083(85)"
+M.furfur	M.globosa	GO:0000166	nucleotide binding	molecular_function	742	41	40.82	ks	weight01	0.007	SAM	"MGL_3918(83), MGL_2761(107), MGL_0082(17), MGL_1578(184), MGL_3362(93), MGL_0949(37), MGL_2857(76), MGL_1821(82), MGL_1174(178), MGL_0967(99), MGL_0723(31), MGL_2296(43), MGL_2606(88), MGL_3715(130), MGL_2666(164), MGL_1563(50), MGL_0087(48), MGL_3318(115), MGL_0326(40), MGL_0432(194), MGL_2149(27), MGL_0592(105), MGL_2183(144), MGL_2662(134), MGL_0030(53), MGL_3547(45), MGL_2644(161), MGL_2678(127), MGL_2304(73), MGL_1178(170), MGL_0182(163), MGL_3773(179), MGL_0083(85), MGL_0715(113), MGL_1143(102), MGL_3003(192), MGL_3354(145), MGL_3316(11), MGL_3698(70), MGL_2038(195), MGL_0516(98)"
+M.furfur	M.globosa	GO:0005198	structural molecule activity	molecular_function	143	25	7.87	ks	weight01	0.0135	SAM	"MGL_0971(51), MGL_1554(5), MGL_2945(133), MGL_2648(46), MGL_1202(20), MGL_2409(57), MGL_0078(114), MGL_1116(14), MGL_3348(3), MGL_4038(118), MGL_3557(10), MGL_1057(15), MGL_4117(12), MGL_0083(85), MGL_2282(41), MGL_1429(156), MGL_0379(64), MGL_2608(196), MGL_3168(7), MGL_1553(42), MGL_2573(16), MGL_3472(176), MGL_1265(59), MGL_1287(135), MGL_0229(21)"
+M.furfur	M.globosa	GO:0016627	"oxidoreductase activity, acting on the C..."	molecular_function	32	1	1.76	ks	weight01	0.0155	SAM	MGL_1174(178)
+M.furfur	M.globosa	GO:0003743	translation initiation factor activity	molecular_function	16	5	0.88	ks	weight01	0.0263	SAM	"MGL_2192(6), MGL_0120(35), MGL_2492(67), MGL_2554(65), MGL_1052(96)"
+M.furfur	M.globosa	GO:0008565	protein transporter activity	molecular_function	78	2	4.29	ks	weight01	0.0333	SAM	"MGL_1633(32), MGL_0296(81)"
+M.furfur	M.globosa	GO:0016853	isomerase activity	molecular_function	57	4	3.14	ks	weight01	0.0375	SAM	"MGL_2296(43), MGL_2513(92), MGL_1163(150), MGL_1865(52)"
+M.furfur	M.globosa	GO:0004402	histone acetyltransferase activity	molecular_function	11	1	0.61	ks	weight01	0.0586	SAM	MGL_2220(158)
+M.furfur	M.globosa	GO:0016410	N-acyltransferase activity	molecular_function	32	1	1.76	ks	weight01	0.0641	SAM	MGL_2220(158)
+M.furfur	M.globosa	GO:0004129	cytochrome-c oxidase activity	molecular_function	6	1	0.33	ks	weight01	0.0753	SAM	MGL_3904(18)
+M.furfur	M.globosa	GO:0004730	pseudouridylate synthase activity	molecular_function	5	1	0.28	ks	weight01	0.084	SAM	MGL_3411(180)
+M.furfur	M.globosa	GO:0008757	S-adenosylmethionine-dependent methyltra...	molecular_function	30	1	1.65	ks	weight01	0.1034	SAM	MGL_2369(29)
+M.furfur	M.globosa	GO:0008233	peptidase activity	molecular_function	147	4	8.09	ks	weight01	0.1063	SAM	"MGL_1479(152), MGL_3882(198), MGL_2506(44), MGL_3341(187)"
+M.furfur	M.globosa	GO:0016751	S-succinyltransferase activity	molecular_function	8	1	0.44	ks	weight01	0.1144	SAM	MGL_3132(182)
+M.furfur	M.globosa	GO:0016411	acylglycerol O-acyltransferase activity	molecular_function	8	1	0.44	ks	weight01	0.1144	SAM	MGL_3009(56)
